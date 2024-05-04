@@ -12,7 +12,7 @@ To use this script, follow these steps:
 
 1. Open a command prompt.
 2. Navigate to the directory containing the script.
-3. Run the script using the command `SMB_BruteForce.bat`.
+3. Run the script using the command `SMBBruteForce.bat`.
 4. When prompted, enter the target IP address, username.
 5. When prompted, either drag&drop or enter the path to your password list.
 
